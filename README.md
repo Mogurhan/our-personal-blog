@@ -1,15 +1,15 @@
 # My Blog App
 
 ## Description
-A personal blog platform built with React. This project demonstrates various React concepts such as routing, state management, dynamic data handling, form handling, and styling with Tailwind CSS.
+A personal blog platform built with React. This project demonstrates various React concepts such as routing, state management, dynamic data handling, form handling, and styling with  CSS and bootstrap.
 
 ## Features
 - Routing with React Router DOM
 - State management with React Hooks
 - Dynamic data integration with mock API
 - Form handling for creating and editing posts
-- Styled with Tailwind CSS
-- Deployed on Vercel
+- Styled with bootsrap
+ 
 
 ## Setup and Run
 1. Clone the repository
